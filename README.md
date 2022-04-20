@@ -25,7 +25,7 @@ Can you predict whether a user will churn after his/her subscription expires?
  
  **Pre-Processing:**
  
- - [ ] Implement **feature selection** methods and test if we get better model - Fynn
+ - [ ] Implement **feature selection** methods and test if we get better model
 
  - [ ] Expand on pre-processing methods (feature scaling?, dimensionality reduction? ...) - Fynn
 
