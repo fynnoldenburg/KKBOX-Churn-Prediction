@@ -19,17 +19,15 @@ Can you predict whether a user will churn after his/her subscription expires?
  
  ## To-Do's
  
- - [ ] Describe **business case** situation and our approach to create value through machine learning
+ - [ ] Describe **business case** situation and our approach to create value through machine learning - Arabella
  
  - [ ] Conduct **exploratory data analysis** (summary stats, correlations, distributions, outlier detection, missing value detection <- partly done)
-
- - [ ] Set up pipeline
  
  **Pre-Processing:**
  
- - [ ] Implement **feature selection** methods and test if we get better model
+ - [ ] Implement **feature selection** methods and test if we get better model - Fynn
 
- - [ ] Expand on pre-processing methods (feature scaling?, dimensionality reduction? ...)
+ - [ ] Expand on pre-processing methods (feature scaling?, dimensionality reduction? ...) - Fynn
 
 **Modelling:**
 
@@ -47,10 +45,10 @@ Can you predict whether a user will churn after his/her subscription expires?
  
 **Validation:**
  
- - [ ] Analyse business case and appropriate data validation procedure (accuracy, precision, recall, other) --> *shouldnt be too hard, probably just accuracy*
+ - [ ] Analyse business case and appropriate data validation procedure (accuracy, precision, recall, other) --> *shouldnt be too hard, probably just accuracy* - Arabella & Fynn
 
 **Overall Process:**
 
- - [ ] Set up pipeline (put all code parts starting from pre-processing into pipeline elements so that we can put them as blocks in and out of pipeline to find the best configuration) --> *probably a looot of work*
+ - [ ] Set up pipeline (put all code parts starting from pre-processing into pipeline elements so that we can put them as blocks in and out of pipeline to find the best configuration) --> *probably a looot of work* - Vaz & Fynn
  
- - [ ] Run code with different configurations of pre-processing steps and models and evaluate which one works best --> *the fun part once everything works*
+ - [ ] Run code with different configurations of pre-processing steps and models and evaluate which one works best --> *the fun part once everything works* - Vaz
