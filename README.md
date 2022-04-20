@@ -34,6 +34,8 @@ Can you predict whether a user will churn after his/her subscription expires?
 **Modelling:**
 
  - [ ] Logistic Regression
+
+ - [ ] Lasso Regression
  
  - [ ] Ridge Regression
  
