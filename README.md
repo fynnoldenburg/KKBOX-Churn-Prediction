@@ -16,12 +16,39 @@ Can you predict whether a user will churn after his/her subscription expires?
  [**Data Processing & Modelling:**](kkbox_machine_learning.ipynb)
  *First version of data pre-processing and fitting Decision Tree model (already 0.93 accuracy)*
  
- - [ ] Expand on pre-processing methods (feature scaling?, dimensionality reduction? ...)
- - [ ] Implement feature selection methods
+ 
+ ## To-Do's
+ 
+ - [ ] Describe **business case** situation and our approach to create value through machine learning
+ 
+ - [ ] Conduct **exploratory data analysis** (summary stats, correlations, distributions, outlier detection, missing value detection <- partly done)
 
  - [ ] Set up pipeline
+ 
+ **Pre-Processing:**
+ 
+ - [ ] Implement **feature selection** methods and test if we get better model
 
- - [ ] Expand on models (Logistic Regression, Support Vector Machines, Naive Bayes, Neural Network ...)
- - [ ] Set up data validation procedure (which measures are most relevant for the problem?)
+ - [ ] Expand on pre-processing methods (feature scaling?, dimensionality reduction? ...)
 
- - [ ] Experiment different combinations of the processing & modelling processes to find best model
+**Modelling:**
+
+ - [ ] Logistic Regression
+ 
+ - [ ] Ridge Regression
+ 
+ - [ ] Support Vector Machines
+ 
+ - [ ] Naive Bayes
+ 
+ - [ ] Neural Network
+ 
+**Validation:**
+ 
+ - [ ] Analyse business case and appropriate data validation procedure (accuracy, precision, recall, other) --> *shouldnt be too hard, probably just accuracy*
+
+**Overall Process:**
+
+ - [ ] Set up pipeline (put all code parts starting from pre-processing into pipeline elements so that we can put them as blocks in and out of pipeline to find the best configuration) --> *probably a looot of work*
+ 
+ - [ ] Run code with different configurations of pre-processing steps and models and evaluate which one works best --> *the fun part once everything works*
