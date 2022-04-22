@@ -21,7 +21,7 @@ Can you predict whether a user will churn after his/her subscription expires?
  
  - [ ] Describe **business case** situation and our approach to create value through machine learning - Arabella
  
- - [ ] Conduct **exploratory data analysis** (summary stats, correlations, distributions, outlier detection, missing value detection <- partly done)
+ - [ ] Conduct **exploratory data analysis** (summary stats, correlations, distributions, outlier detection, missing value detection <- partly done) - Kevin
  
  **Pre-Processing:**
  
@@ -29,7 +29,7 @@ Can you predict whether a user will churn after his/her subscription expires?
 
  - [ ] Expand on pre-processing methods (feature scaling?, dimensionality reduction? ...) - Fynn
 
-**Modelling:**
+**Modelling: - Farouq**
 
  - [ ] Logistic Regression
 
