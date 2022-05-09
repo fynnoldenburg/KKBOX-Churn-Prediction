@@ -38,6 +38,8 @@ Can you predict whether a user will churn after his/her subscription expires?
  - [ ] Ridge Regression
  
  - [ ] Support Vector Machines
+
+ - [ ] Random Forest (ADA Boost)
  
  - [ ] Naive Bayes
  
