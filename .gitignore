@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+kkbox_churn.csv
+kkbox_df_clean.csv
